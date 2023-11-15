@@ -7,7 +7,7 @@ on:
     - main
 
 env:
-  AZURE_WEBAPP_NAME: kind-coins-service
+  AZURE_WEBAPP_NAME: kind-coins-api-service
   AZURE_WEBAPP_PACKAGE_PATH: "./publish" 
 
 jobs:
